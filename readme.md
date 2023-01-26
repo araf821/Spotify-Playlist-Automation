@@ -21,3 +21,7 @@ A test-based application that takes in the user's birth date and creates them a 
 5. Using the Spotipy API, the application searches on Spotify for every track in the list created earlier in the program.
 6. The first track in the search results is added to the playlist.
 7. Any title not found on Spotify is then added to another list and displayed to the user. The user is also made aware of how many tracks were found and how many were not.
+
+As of right now, the application is connected to work with only my Spotify account. Enabling just any user to do this would be possible but it requires a few account credentials from the user, that may be a hassle to most users so I have not yet implemented that feature.
+
+I'll most likely be updating this application later on with a complete UI as well as implement the feature mentioned above. Having an interactive UI would then allow me to guide the user on how to get the credentials needed for this application to work as intended on their Spotify accounts.
